@@ -1,0 +1,16 @@
+{
+	"name": "carlosruesta/scraping",
+	"description": "scraping em php",
+	"minimum-stability": "stable",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Carlos Ruesta",
+			"email": "carlos_ruesta@yahoo.es"
+		}
+	],
+	"require": {
+		"symfony/http-client": "^5.1",
+		"symfony/browser-kit": "^5.1"
+	}
+}
